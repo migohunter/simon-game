@@ -1,0 +1,94 @@
+body {
+  background-image:url("https://i.stack.imgur.com/jGlzr.png");
+  font-family: Arial;
+  font-weight: bold;
+}
+
+#content {
+  font-size: 20px;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#one {
+  height:100px;
+  width:100px;
+  text-align: center;
+  align-content: center;
+  border-radius: 25%;
+}
+
+#two {
+  height:100px;
+  width:100px;
+  text-align: center;
+  align-content: center;
+  border-radius: 25%;
+}
+
+#three {
+  height:100px;
+  width:100px;
+  text-align: center;
+  align-content: center;
+  border-radius: 25%;
+}
+
+#four {
+  height:100px;
+  width:100px;
+  text-align: center;
+  align-content: center;
+  border-radius: 25%;
+}
+
+.dark1 {
+  background-color: #10b958;
+}
+
+.light1 {
+  background-color: #13FF75;
+}
+
+.dark2 {
+  background-color: #c61611;
+}
+
+.light2 {
+  background-color: #ff1c15;
+}
+
+.dark3 {
+  background-color: #dddf1a;
+}
+
+.light3 {
+  background-color: #fdff1d;
+}
+
+.dark4 {
+  background-color: #5ac5c6;
+}
+
+.light4 {
+  background-color: #73feff;
+}
+
+.bt {
+  height: 60px;
+  width: 80px;
+  text-align: center;
+  align-content: center;
+  background-color: transparent;
+}
+
+.img {
+  height: 12px;
+  width: 12px;
+  text-align: center;
+  align-content: center;
+}
